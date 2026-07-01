@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">✨ Building projects with Spring Boot, Python, and Machine Learning<br>📚 I'm currently learning Machine Learning and Mobile App Development<br>🎯 Goal: To become a Full-Stack Software Engineer with expertise in AI and Machine Learning<br>🎲 Fun fact: I love learning new technologies by building real-world projects.</p>
+<p data-importer="text" align="left">✨ Passionate about Machine Learning and Python development<br>📚 Currently learning Computer Vision, Deep Learning, and AI model deployment<br>🎯 Goal: To become a skilled AI Engineer and contribute to innovative technology<br>🎲 Fun fact: I enjoy experimenting with datasets and turning ideas into working applications.</p>
 
 ###
 
